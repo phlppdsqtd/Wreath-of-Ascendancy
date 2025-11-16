@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 72f957a63bbdef4499f745c6b05ee3b2
+guid: 3a886822fc225f44587f7599c87b157d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: BakeTo
-    second: {fileID: 2800000, guid: 5785b40eea6fcf54489335ffbdff3914, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -40,7 +35,7 @@ ModelImporter:
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 300
+      lastFrame: 317
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -64,7 +59,7 @@ ModelImporter:
       maskType: 3
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
